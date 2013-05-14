@@ -13,5 +13,5 @@ public enum Status {
     Ocupado,
     Livre,
     Reservado
-    boolean status=true;
+    
 }
